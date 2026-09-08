@@ -6,7 +6,7 @@ The study asks whether genre labels correspond to natural groups in acoustic fea
 
 ## Project Structure
 
-- `Spotify_Analysis.pdf.pdf` - Course report describing the dataset, methodology, results, discussion, and conclusions.
+- `Report.pdf` - Course report describing the dataset, methodology, results, discussion, and conclusions.
 - `Dataset_cleaning_and_preprocessing.ipynb` - Imports and inspects the Spotify datasets, standardizes their columns and values, harmonizes genre information, assesses compatibility, and prepares the data for analysis.
 - `Clustering_Methodology.ipynb` - Compares clustering configurations to determine a suitable number of clusters and whether PCA should be used before the later analysis.
 - `Cluster_Analysis.ipynb` - Applies the selected clustering setup to the complete dataset and to selected macro-genres to study the relationship between acoustic clusters and genre labels.
